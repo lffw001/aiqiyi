@@ -35,6 +35,10 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 group-title="移动央视" tvg-name="CCTV17" tvg-logo="https://livecdn.zbds.org/logo/CCTV17.png" epg-url="https://epg.v1.mk/fy.xml",CCTV17
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 group-title="移动央视" tvg-name="CCTV4K" tvg-logo="https://livecdn.zbds.org/logo/CCTV4K.png"  epg-url="https://epg.v1.mk/fy.xml",CCTV4K
+http://82.156.243.185:36888/av3a/cctv4kn.m3u8
+#EXTINF:-1 group-title="移动央视" tvg-name="CCTV8K" tvg-logo="https://livecdn.zbds.org/logo/CCTV8K.png"  epg-url="https://epg.v1.mk/fy.xml",CCTV8K
+http://82.156.243.185:36888/av3a/cctv8kn.m3u8
 #EXTINF:-1 group-title="移动央视" tvg-name="CETV1" tvg-logo="https://livecdn.zbds.org/logo/CETV1.png" epg-url="https://epg.v1.mk/fy.xml",CETV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 #EXTINF:-1 group-title="移动央视" tvg-name="CETV2" tvg-logo="https://livecdn.zbds.org/logo/CETV2.png" epg-url="https://epg.v1.mk/fy.xml",CETV2
