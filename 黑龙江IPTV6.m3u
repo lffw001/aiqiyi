@@ -138,7 +138,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226410/index.m3u8
 #EXTINF:-1 group-title="省内频道" tvg-name="齐齐哈尔经济法治1" tvg-logo="https://livecdn.zbds.org/logo/齐齐哈尔经济法治1.png" epg-url="https://epg.v1.mk/fy.xml",齐齐哈尔经济法治1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226493/index.m3u8
 #EXTINF:-1 group-title="省内频道" tvg-name="齐齐哈尔新闻综合1" tvg-logo="https://livecdn.zbds.org/logo/齐齐哈尔新闻综合1.png" epg-url="https://epg.v1.mk/fy.xml",齐齐哈尔新闻综合1
-http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226413/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226413/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
 #EXTINF:-1 group-title="省内频道" tvg-name="齐齐哈尔经济法治2" tvg-logo="https://livecdn.zbds.org/logo/齐齐哈尔经济法治2.png" epg-url="https://epg.v1.mk/fy.xml",齐齐哈尔经济法治2
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8
 #EXTINF:-1 group-title="省内频道" tvg-name="伊春新闻综合" tvg-logo="https://livecdn.zbds.org/logo/伊春新闻综合.png" epg-url="https://epg.v1.mk/fy.xml",伊春新闻综合
