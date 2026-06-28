@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
 #EXTINF:-1 group-title="移动央视" tvg-name="CCTV1" tvg-logo="https://livecdn.zbds.org/logo/CCTV1.png" epg-url="https://epg.v1.mk/fy.xml",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/8888888/224/3221226016/index.m3u8
-https://epg.v1.mk/fy.xml"，CCTV2
+#EXTINF:-1 group-title="移动央视" tvg-name="CCTV2" tvg-logo="https://livecdn.zbds.org/logo/CCTV2.png" epg-url="https://epg.v1.mk/fy.xml"，CCTV2
 http://ottrrs.hl.chinamobile.com/PLTV/8888888/224/3221225588/index.m3u8
 #EXTINF:-1 group-title="移动央视" tvg-name="CCTV3" tvg-logo="https://livecdn.zbds.org/logo/CCTV3.png" epg-url="https://epg.v1.mk/fy.xml"，CCTV3
 http://ottrrs.hl.chinamobile.com/PLTV/8888888/224/3221226021/index.m3u8
